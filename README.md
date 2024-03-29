@@ -1,3 +1,3 @@
 # Labirentimsi
 
-Its not full version, major changes coming soon.
+It is not full version yet, major changes coming soon.
